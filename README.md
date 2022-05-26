@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @LeoGWW
-- 👀 I’m interested in being a professional full stack developer.
-- 🌱 I’m currently learning JavaScript.
-- 💞️ I’m looking to collaborate on all that easy projects that i can help.
-- 📫 How to reach me is just sending an mp or in my discord Leo_G_W_#7565
+- Leonardo Gómez Waipan 
+- Based in <i>Buenos Aires</i>
+- Trying to be a professional full stack web developer
+- Currently learning: JavaScript
 
 - 🌱Currently working in: CryptoAPT.
 <!---
