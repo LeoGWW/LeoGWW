@@ -1,5 +1,5 @@
 - Leonardo Gómez Waipan 
-- Based in <strong><i>Buenos Aires</i></strong>
+- Based in <strong><i>Buenos Aires</i></strong>, <strong><i>Argentina.</i></strong>
 - Trying to be a professional full stack web developer
 - Currently learning: JavaScript
 
